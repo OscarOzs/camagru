@@ -1,0 +1,14 @@
+Contraintes :
+- Aucun framework ou microframework qui ne sont pas contenus dans la librarie standard de PHP
+- Aucune erreur, aucun warning dans aucune console, aucune erreur relié a GetUserMedia()
+- Aucune fuite de securité, .env avec toutes les infos sensibles (non publié sur git)
+- doit etre compatible avec au moins firefox 41 et chrome 46
+
+To check :
+- Alpha channel
+- GetUserMedia()
+- builtin webserver : https://www.php.net/manual/en/features.commandline.webserver.php
+
+1- dockerisé l'application avec Docker :
+	- le container doit avoir ces technologies : PHP, Javascript
+

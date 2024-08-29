@@ -7,9 +7,9 @@ include('includes/navbar.php');
 <div class="py-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
-				<h4>Login and Registration</h4>
-				<h5>With Email Verification</h5>
+			<div class="col-md-12 text-center">
+				<h2>Login and Registration</h2>
+				<h4>With Email Verification</h4>
 			</div>
 		</div>
 	</div>
